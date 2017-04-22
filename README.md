@@ -1,4 +1,7 @@
-# test coverage for  [mongo-oplog (v2.0.2)](https://github.com/cayasso/mongo-oplog)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo-oplog.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo-oplog) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo-oplog.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo-oplog)
+# npmtest-mongo-oplog
+
+#### basic test coverage for  [mongo-oplog (v2.0.2)](https://github.com/cayasso/mongo-oplog)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo-oplog.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo-oplog) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo-oplog.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo-oplog)
+
 #### Watch mongodb oplog in a simple way
 
 [![NPM](https://nodei.co/npm/mongo-oplog.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongo-oplog)
@@ -118,7 +121,8 @@
             "import/no-unassigned-import": 0,
             "no-negated-condition": 0
         }
-    }
+    },
+    "bin": {}
 }
 ```
 
